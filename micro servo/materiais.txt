@@ -1,0 +1,5 @@
+1 Arduino UNO;
+Protoboard;
+Jumpers de ligação;
+Micro servo;
+Potenciometro;
