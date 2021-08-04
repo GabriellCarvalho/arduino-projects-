@@ -1,0 +1,6 @@
+LDR;
+Resistor de 10k ohms;
+Resistor 330 ohms;
+1 Arduino UNO;
+Protoboard;
+Jumpers de ligação;
